@@ -1,0 +1,30 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/imech/ros2_ws/install/spot_driver/local/lib/python3.10/dist-packages",
+        "/home/imech/ros2_ws/install/spot_examples/lib/python3.10/site-packages",
+        "/home/imech/ros2_ws/install/spot_common/lib/python3.10/site-packages",
+        "/home/imech/ros2_ws/install/bdai_ros2_wrappers/lib/python3.10/site-packages",
+        "/home/imech/ros2_ws/install/synchros2/lib/python3.10/site-packages",
+        "/home/imech/ros2_ws/install/spot_wrapper/lib/python3.10/site-packages",
+        "/home/imech/ros2_ws/install/spot_msgs/local/lib/python3.10/dist-packages",
+        "/home/imech/ros2_ws/install/scan_help/lib/python3.10/site-packages",
+        "/home/imech/ros2_ws/install/rustbuster/lib/python3.10/site-packages",
+        "/home/imech/ros2_ws/install/ouster_sensor_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/imech/ros2_ws/install/spot_driver/local/lib/python3.10/dist-packages",
+        "/home/imech/ros2_ws/install/spot_examples/lib/python3.10/site-packages",
+        "/home/imech/ros2_ws/install/spot_common/lib/python3.10/site-packages",
+        "/home/imech/ros2_ws/install/bdai_ros2_wrappers/lib/python3.10/site-packages",
+        "/home/imech/ros2_ws/install/synchros2/lib/python3.10/site-packages",
+        "/home/imech/ros2_ws/install/spot_wrapper/lib/python3.10/site-packages",
+        "/home/imech/ros2_ws/install/spot_msgs/local/lib/python3.10/dist-packages",
+        "/home/imech/ros2_ws/install/scan_help/lib/python3.10/site-packages",
+        "/home/imech/ros2_ws/install/rustbuster/lib/python3.10/site-packages",
+        "/home/imech/ros2_ws/install/ouster_sensor_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

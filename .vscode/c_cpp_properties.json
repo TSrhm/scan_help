@@ -1,0 +1,36 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/imech/ros2_ws/install/spot_driver/include/**",
+        "/home/imech/ros2_ws/install/spot_ros2_control/include/**",
+        "/home/imech/ros2_ws/install/spot_hardware_interface/include/**",
+        "/home/imech/ros2_ws/install/spot_controllers/include/**",
+        "/home/imech/ros2_ws/install/spot_msgs/include/**",
+        "/home/imech/ros2_ws/install/ouster_ros/include/**",
+        "/home/imech/ros2_ws/install/ouster_sensor_msgs/include/**",
+        "/home/imech/ros2_ws/install/multirobot_map_merge/include/**",
+        "/home/imech/ros2_ws/install/explore_lite/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/imech/ros2_ws/src/m-explore-ros2/explore/include/**",
+        "/home/imech/ros2_ws/src/m-explore-ros2/map_merge/include/**",
+        "/home/imech/ros2_ws/src/ouster-ros/ouster-ros/include/**",
+        "/home/imech/ros2_ws/src/spot_ros2/spot_controllers/include/**",
+        "/home/imech/ros2_ws/src/spot_ros2/spot_driver/include/**",
+        "/home/imech/ros2_ws/src/spot_ros2/spot_hardware_interface/include/**",
+        "/home/imech/ros2_ws/src/spot_ros2/spot_ros2_control/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
