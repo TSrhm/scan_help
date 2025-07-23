@@ -22,7 +22,12 @@ setup(
         'console_scripts': [
             "scan_node = scan_help.scan_help_now:main",
             "zero_odom = scan_help.zero_odom:main",
-            "cmd_vel_relay = scan_help.cmd_vel_relay:main"
+            "cmd_vel_relay = scan_help.cmd_vel_relay:main",
+            "image_publisher = scan_help.image_publisher:main",
+            "fake_camera_node = scan_help.fake_camera_node:main",
+            "resize_and_scale_bbox_node = scan_help.resize_and_scale_bbox_node:main",
+            "get_object_depth_node = scan_help.get_object_depth_node:main",
+            "object_3d_locator = scan_help.object_3d_locator:main"
         ],
     },
 )
